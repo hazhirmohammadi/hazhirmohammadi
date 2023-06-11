@@ -1,24 +1,25 @@
 ## Hey there
 ![](https://komarev.com/ghpvc/?username=hazhirmohammadi)
 
-As a Back End Developer with more than 8 years of experience in creating webApplications and analyzing projects and databases. Have worked in agile environments with teammates from 5 to 15 people.Have optimized and refactored code base from scratch to increase 65 performance boost in radiscar project. 
+As a front End Developer with more than 2 years of experience in creating webApplications with nodejs .and Also I have Experience
+in React,Angular.. 
 
-### Back-End Skills:
+<!-- ### Back-End Skills: -->
 
 <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  -->
 <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
 
-### DevOps Skills:
-
+<!-- ### DevOps Skills:
+ -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  -->
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
 <!-- ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
-### Databases:
+<!-- ### Databases: -->
 
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  -->

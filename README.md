@@ -1,8 +1,8 @@
 ## Hey there
 ![](https://komarev.com/ghpvc/?username=hazhirmohammadi)
 
-As a front End Developer with more than 2 years of experience in creating webApplications with nodejs .and Also I have Experience
-in React,Angular.. 
+As a front End Developer with more than 2 years of experience in creating webApplications with nodejs. and Also I have Experience
+in React.
 
 <!-- ### Back-End Skills: -->
 

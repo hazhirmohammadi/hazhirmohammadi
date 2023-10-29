@@ -29,6 +29,8 @@ in React.
 ### Front-End Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
  
 ## 🌐 Socials:
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan)  -->

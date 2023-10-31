@@ -50,4 +50,5 @@ in React.
 <!-- ### IDEs:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=PHPStorm&logoColor=007ACC) -->
+-->
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-000?&logo=WebStorm&logoColor=007ACC) 

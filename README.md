@@ -18,9 +18,14 @@ in React.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux)](https://skillicons.dev)
+
+
+
+### IDEs:
+
+![PHPStorm](https://img.shields.io/badge/-WEBStorm-000?&logo=WEBStorm&logoColor=007ACC)  
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
- 
 ## 🌐 Socials:
 <!-- # 💻 Tech Stack: -->
 
@@ -51,4 +56,4 @@ in React.
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 -->
-![PHPStorm](https://img.shields.io/badge/-WEBStorm-000?&logo=WEBStorm&logoColor=007ACC) 
+

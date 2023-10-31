@@ -23,7 +23,7 @@ in React.
 
 ### IDEs:
 
-![PHPStorm](https://img.shields.io/badge/-WEBStorm-000?&logo=WEBStorm&logoColor=007ACC)  
+<!--![PHPStorm](https://img.shields.io/badge/-WEBStorm-000?&logo=WEBStorm&logoColor=007ACC) -->  
 [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 ## 🌐 Socials:

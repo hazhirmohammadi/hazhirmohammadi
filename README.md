@@ -4,7 +4,7 @@
 As a front End Developer with more than 2 years of experience in creating webApplications with react,nextjs,nodejs. and Also I have Experience
 in React.
 
-<!-- ### Back-End Skills: -->
+
 
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
@@ -17,9 +17,10 @@ in React.
 ### Front-End Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux)](https://skillicons.dev)
 
-
+ ### Back-End Skills: 
+ [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### IDEs:
 

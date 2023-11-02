@@ -17,7 +17,7 @@ in React.
 ### Front-End Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux,nodejs)](https://skillicons.dev)
 
 
 

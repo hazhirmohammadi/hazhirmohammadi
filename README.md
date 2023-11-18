@@ -19,9 +19,9 @@ in React.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,redux,zustand)](https://skillicons.dev)
 
- ### Back-End Skills: 
+<!-- ### Back-End Skills: 
  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
+-->
 ### IDEs:
 
 <!--![PHPStorm](https://img.shields.io/badge/-WEBStorm-000?&logo=WEBStorm&logoColor=007ACC) -->  
